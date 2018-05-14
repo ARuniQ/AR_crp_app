@@ -16,7 +16,7 @@ by ARuniq&reg; - appsaz&reg;
 واقعیت افزوده در این برنامه براساس مارکر است و قابلیت تشخیص یک یا چند مارکر به صورت هم زمان و نمایش اجسام سه بعدی ،متنی، ویدیویی و ... را روی هر یک را دارد.  .
   </p>
 <p dir='rtl' align='right'>
-#####  ویدیوی دموی این اپلیکیشن:
+ویدیوی دموی این اپلیکیشن:
 
 ### [3D augmented objects demo](http://aruniq.ir/sc/Augmented%20reality%20by%20ARuniq.mp4 "app demo")
 
