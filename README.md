@@ -15,16 +15,14 @@ by ARuniq&reg; - appsaz&reg;
 این اپلیکیشن بر بستر وب  طراحی شده که به راحتی در قالب اپلیکیشن در پلتفرم های اندروید و آی او اس  قابل اجرا است.
 واقعیت افزوده در این برنامه براساس مارکر است و قابلیت تشخیص یک یا چند مارکر به صورت هم زمان و نمایش اجسام سه بعدی ،متنی، ویدیویی و ... را روی هر یک را دارد.  .
   </p>
-
+<p dir='rtl' align='right'>
 #####  دموی این اپلیکیشن:
 
 ### [3D augmented objects demo](http://aruniq.ir/sc/Augmented%20reality%20by%20ARuniq.mp4 "app demo")
 
+### [auto-play video demo](http://aruniq.ir/sc/Augmented%20reality%20video%20auto%20play%20%20by%20ARuniq.mp4 "auto-play video demo")
 
-### [auto-play video demo](http://aruniq.ir/sc/Augmented%20reality%20video%20auto%20play%20%20by%20ARuniq.mp4 "auto-play 
-video demo")
-
-
+</p>
 
 [![app screen shot6](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6")
 
