@@ -19,6 +19,9 @@ by ARuniq-appsaz
 
 ### [auto-play video demo](http://aruniq.ir/sc/Augmented%20reality%20video%20auto%20play%20%20by%20ARuniq.mp4 "auto-play video demo")
 
+
+
+
 [![app screen shot6](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6")
 
 [![app screen shot5](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq5.jpg "app screen shot5")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq5.jpg "app screen shot5")
