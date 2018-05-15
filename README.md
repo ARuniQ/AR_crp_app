@@ -23,11 +23,11 @@ by ARuniq&reg; - appsaz&reg;
 
 ### [برای مشاهده ویدیو کلیک کنید](http://aruniq.ir/sc/Augmented%20reality%20video%20auto%20play%20%20by%20ARuniq.mp4 "auto-play video demo")
 
-  
-[![Augmented reality video auto play by aruniq](https://github.com/ARuniq/AR_crp_app/blob/master/video play2.jpg "Augmented reality video auto play by aruniq")](http://aruniq.ir/sc/Augmented%20reality%20video%20auto%20play%20%20by%20ARuniq.mp4 "Augmented reality video auto play by aruniq")
+
+[![Augmented video auto-play by aruniq](https://github.com/ARuniq/AR_crp_app/blob/master/video%20play2.jpg "Augmented video auto-play by aruniq")](http://aruniq.ir/sc/Augmented%20reality%20by%20ARuniq.mp4 "Augmented video auto-play by aruniq")
 
 
-[![Augmented reality 3D objects by aruniq](https://github.com/ARuniq/AR_crp_app/blob/master/video%20play1.jpg "Augmented reality 3D objects by aruniq")](http://aruniq.ir/sc/Augmented%20reality%20by%20ARuniq.mp4 "Augmented reality 3D objects by aruniq")
+[![Augmented reality 3D objects by aruniq](https://github.com/ARuniq/AR_crp_app/blob/master/video%20play1.jpg "Augmented reality 3D objects by aruniq")](http://aruniq.ir/sc/Augmented%20reality%20video%20auto%20play%20%20by%20ARuniq.mp4 "Augmented reality 3D objects by aruniq")
   
   
 
