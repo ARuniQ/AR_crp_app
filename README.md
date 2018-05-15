@@ -1,7 +1,7 @@
 # AR_crp_app
 
 ###  This is an application for the "Consumers' Right Protection" Festival in Iran,Shiraz, using augmented reality.
-by ARuniq&reg; - appsaz&reg;
+by ARuniQ&reg; - Appsaz&reg;
 
 <p dir='rtl' align='right'>
 این اپلیکیشن به سفارش سازمان صنعت و معدن استان فارس، به صورت اختصاصی برای جشنواره تقدیر از حقوق مصرف کنندگان سال 96 با هدف معرفی جشنواره و حامیان مالی آن ، انجام نظر سنجی از شرکت کنندگان و برگزاری مسابقه به کمک واقعیت افزوده ،توسط تیم نرم افزاری آرونیک  و تحت حمایت شرکت اپ ساز طراحی و پیاده سازی شده است.
