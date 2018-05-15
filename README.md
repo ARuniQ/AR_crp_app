@@ -36,17 +36,17 @@ by ARuniq&reg; - appsaz&reg;
 
 [![app screen shot2](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq2.jpg "app screen shot2")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq2.jpg "app screen shot2")
 
+[![app screen shot4](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq4.jpg "app screen shot4")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq4.jpg "app screen shot4")
+
+
+[![ splash screen](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq%20splash%20screen.jpeg " splash screen")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq%20splash%20screen.jpeg " splash screen")
+
 [![sponsers screenshot](https://github.com/ARuniq/AR_crp_app/blob/master/sponsers%20screenshot.png "sponsers screenshot")](https://github.com/ARuniq/AR_crp_app/blob/master/sponsers%20screenshot.png "sponsers screenshot")
 
 [![goals screenshot](https://github.com/ARuniq/AR_crp_app/blob/master/festival%20goals%20screenshot.png "goals screenshot")](https://github.com/ARuniq/AR_crp_app/blob/master/festival%20goals%20screenshot.png "goals screenshot")
 
 [![survey screenshot](https://github.com/ARuniq/AR_crp_app/blob/master/survey%20screensot.png "survey screenshot")](https://github.com/ARuniq/AR_crp_app/blob/master/survey%20screensot.png "survey screenshot")
 
-
-[![app screen shot4](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq4.jpg "app screen shot4")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq4.jpg "app screen shot4")
-
-
-[![ splash screen](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq%20splash%20screen.jpeg " splash screen")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq%20splash%20screen.jpeg " splash screen")
 
 </p>
 
