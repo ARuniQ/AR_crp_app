@@ -16,17 +16,22 @@ by ARuniq&reg; - appsaz&reg;
 واقعیت افزوده در این برنامه براساس مارکر است و قابلیت تشخیص یک یا چند مارکر به صورت هم زمان و نمایش اجسام سه بعدی ،متنی، ویدیویی و ... را روی هر یک را دارد.  .
   </p>
 <p dir='rtl' align='right'>
-ویدیوی دموی این اپلیکیشن:
+دموی اسن اپلیکیشن:
   
-  [![Augmented reality video auto play by aruniq](https://github.com/ARuniq/AR_crp_app/blob/master/video play2.jpg "Augmented reality video auto play by aruniq")](http://aruniq.ir/sc/Augmented%20reality%20video%20auto%20play%20%20by%20ARuniq.mp4 "Augmented reality video auto play by aruniq")
+  
+### [برای مشاهده ویدیو کلیک کنید](http://aruniq.ir/sc/Augmented%20reality%20by%20ARuniq.mp4 "app demo")
+
+### [برای مشاهده ویدیو کلیک کنید](http://aruniq.ir/sc/Augmented%20reality%20video%20auto%20play%20%20by%20ARuniq.mp4 "auto-play video demo")
+
+  
+[![Augmented reality video auto play by aruniq](https://github.com/ARuniq/AR_crp_app/blob/master/video play2.jpg "Augmented reality video auto play by aruniq")](http://aruniq.ir/sc/Augmented%20reality%20video%20auto%20play%20%20by%20ARuniq.mp4 "Augmented reality video auto play by aruniq")
+
 
 [![Augmented reality 3D objects by aruniq](https://github.com/ARuniq/AR_crp_app/blob/master/video%20play1.jpg "Augmented reality 3D objects by aruniq")](http://aruniq.ir/sc/Augmented%20reality%20by%20ARuniq.mp4 "Augmented reality 3D objects by aruniq")
   
   
 
-### [3D augmented objects demo](http://aruniq.ir/sc/Augmented%20reality%20by%20ARuniq.mp4 "app demo")
 
-### [auto-play video demo](http://aruniq.ir/sc/Augmented%20reality%20video%20auto%20play%20%20by%20ARuniq.mp4 "auto-play video demo")
 
 </p>
 
