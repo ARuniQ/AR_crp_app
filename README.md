@@ -1,9 +1,9 @@
 # AR_crp_app
 
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg | width=100)
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=10)
+![](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg | width=10)
 
 ###  This is an application for the "Consumers' Right Protection" Festival in Iran,Shiraz, using augmented reality.
 by ARuniq&reg; - appsaz&reg;
@@ -31,7 +31,7 @@ by ARuniq&reg; - appsaz&reg;
 
 
 
-[![app screen shot6](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6" | width=10)
+[![app screen shot6](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6" )
 
 [![app screen shot5](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq5.jpg "app screen shot5")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq5.jpg "app screen shot5")
 
