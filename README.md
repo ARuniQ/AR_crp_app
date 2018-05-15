@@ -61,3 +61,8 @@ by ARuniQ&reg; - Appsaz&reg;
 
 </p>
 
+
+contact us:
+info@aruniq.ir
+yghonche@yahoo.com
+shahriar2229@gmail.com
