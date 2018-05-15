@@ -1,10 +1,5 @@
 # AR_crp_app
 
-
-![](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg | width=100)
-
-![](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg | width=10)
-
 ###  This is an application for the "Consumers' Right Protection" Festival in Iran,Shiraz, using augmented reality.
 by ARuniq&reg; - appsaz&reg;
 
