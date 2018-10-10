@@ -24,10 +24,10 @@ by ARuniQ&reg; - Appsaz&reg;
 ### [برای مشاهده ویدیو کلیک کنید](http://apup.ir/uploads/1539159732861.mp4 "auto-play video demo")
 
 
-[![Augmented video auto-play by aruniq](https://github.com/ARuniq/AR_crp_app/blob/master/video%20play2.jpg "Augmented video auto-play by aruniq")](http://aruniq.ir/sc/Augmented%20reality%20by%20ARuniq.mp4 "Augmented video auto-play by aruniq")
+[![Augmented video auto-play by aruniq](https://github.com/ARuniq/AR_crp_app/blob/master/video%20play2.jpg "Augmented video auto-play by aruniq")](http://apup.ir/uploads/1539159732952.mp4 "Augmented video auto-play by aruniq")
 
 
-[![Augmented reality 3D objects by aruniq](https://github.com/ARuniq/AR_crp_app/blob/master/video%20play1.jpg "Augmented reality 3D objects by aruniq")](http://aruniq.ir/sc/Augmented%20reality%20video%20auto%20play%20%20by%20ARuniq.mp4 "Augmented reality 3D objects by aruniq")
+[![Augmented reality 3D objects by aruniq](https://github.com/ARuniq/AR_crp_app/blob/master/video%20play1.jpg "Augmented reality 3D objects by aruniq")](hhttp://apup.ir/uploads/1539159732861.mp4 "Augmented reality 3D objects by aruniq")
   
   
 
@@ -40,24 +40,15 @@ by ARuniQ&reg; - Appsaz&reg;
 
 ![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6") ![alt-text-2](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq5.jpg "app screen shot5")
 
-[![app screen shot5]( "")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq5.jpg "app screen shot5")
+![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq3.jpg "app screen shot3") ![alt-text-2](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq1.jpg "app screen shot1")
 
-[![app screen shot3](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq3.jpg "app screen shot3")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq3.jpg "app screen shot3")
+![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq2.jpg "app screen shot2") ![alt-text-2](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq4.jpg "app screen shot4")
 
-[![app screen shot1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq1.jpg "app screen shot1")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq1.jpg "app screen shot1")
-
-[![app screen shot2](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq2.jpg "app screen shot2")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq2.jpg "app screen shot2")
-
-[![app screen shot4](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq4.jpg "app screen shot4")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq4.jpg "app screen shot4")
+![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq%20splash%20screen.jpeg " splash screen") ![alt-text-2](https://github.com/ARuniq/AR_crp_app/blob/master/sponsers%20screenshot.png "sponsers screenshot")
 
 
-[![ splash screen](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq%20splash%20screen.jpeg " splash screen")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq%20splash%20screen.jpeg " splash screen")
+![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq%20splash%20screen.jpeg " goals screenshot") ![alt-text-2](https://github.com/ARuniq/AR_crp_app/blob/master/survey%20screensot.png "survey screenshot")
 
-[![sponsers screenshot](https://github.com/ARuniq/AR_crp_app/blob/master/sponsers%20screenshot.png "sponsers screenshot")](https://github.com/ARuniq/AR_crp_app/blob/master/sponsers%20screenshot.png "sponsers screenshot")
-
-[![goals screenshot](https://github.com/ARuniq/AR_crp_app/blob/master/festival%20goals%20screenshot.png "goals screenshot")](https://github.com/ARuniq/AR_crp_app/blob/master/festival%20goals%20screenshot.png "goals screenshot")
-
-[![survey screenshot](https://github.com/ARuniq/AR_crp_app/blob/master/survey%20screensot.png "survey screenshot")](https://github.com/ARuniq/AR_crp_app/blob/master/survey%20screensot.png "survey screenshot")
 
 
 </p>
