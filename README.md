@@ -19,9 +19,9 @@ by ARuniQ&reg; - Appsaz&reg;
 دموی این اپلیکیشن:
   
   
-### [برای مشاهده ویدیو کلیک کنید](http://aruniq.ir/sc/Augmented%20reality%20by%20ARuniq.mp4 "app demo")
+### [برای مشاهده ویدیو کلیک کنید](http://apup.ir/uploads/1539159732952.mp4 "app demo")
 
-### [برای مشاهده ویدیو کلیک کنید](http://aruniq.ir/sc/Augmented%20reality%20video%20auto%20play%20%20by%20ARuniq.mp4 "auto-play video demo")
+### [برای مشاهده ویدیو کلیک کنید](http://apup.ir/uploads/1539159732861.mp4"auto-play video demo")
 
 
 [![Augmented video auto-play by aruniq](https://github.com/ARuniq/AR_crp_app/blob/master/video%20play2.jpg "Augmented video auto-play by aruniq")](http://aruniq.ir/sc/Augmented%20reality%20by%20ARuniq.mp4 "Augmented video auto-play by aruniq")
