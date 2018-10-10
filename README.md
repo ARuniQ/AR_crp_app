@@ -32,14 +32,13 @@ by ARuniQ&reg; - Appsaz&reg;
 
 
 
-![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6") ![alt-text-2](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq5.jpg "app screen shot5") ![alt-text-3](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq3.jpg "app screen shot3") ![alt-text-4]     (https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq1.jpg "app screen shot1")
+![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6") ![alt-text-2](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq5.jpg "app screen shot5") ![alt-text-3](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq3.jpg "app screen shot3") 
 
-![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq2.jpg "app screen shot2") ![alt-text-2](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq4.jpg "app screen shot4")
+![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq1.jpg "app screen shot1")![alt-text-2](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq2.jpg "app screen shot2") ![alt-text-3](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq4.jpg "app screen shot4")
 
-![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq%20splash%20screen.jpeg " splash screen") ![alt-text-2](https://github.com/ARuniq/AR_crp_app/blob/master/sponsers%20screenshot.png "sponsers screenshot")
+![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq%20splash%20screen.jpeg " splash screen") ![alt-text-2](https://github.com/ARuniq/AR_crp_app/blob/master/sponsers%20screenshot.png "sponsers screenshot") ![alt-text-3](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq%20splash%20screen.jpeg " goals screenshot") 
 
-
-![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq%20splash%20screen.jpeg " goals screenshot") ![alt-text-2](https://github.com/ARuniq/AR_crp_app/blob/master/survey%20screensot.png "survey screenshot")
+![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/survey%20screensot.png "survey screenshot")
 
 
 
