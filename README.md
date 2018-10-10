@@ -37,9 +37,10 @@ by ARuniQ&reg; - Appsaz&reg;
 
 
 
-[![app screen shot6](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6" )
 
-[![app screen shot5](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq5.jpg "app screen shot5")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq5.jpg "app screen shot5")
+![alt-text-1](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq6.jpg "app screen shot6") ![alt-text-2](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq5.jpg "app screen shot5")
+
+[![app screen shot5]( "")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq5.jpg "app screen shot5")
 
 [![app screen shot3](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq3.jpg "app screen shot3")](https://github.com/ARuniq/AR_crp_app/blob/master/ar%20by%20aruniq3.jpg "app screen shot3")
 
